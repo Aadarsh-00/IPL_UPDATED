@@ -18,7 +18,7 @@ tab1, tab2 = st.tabs(["📊 Dashboard", "🔮 Predict Score"])
 
 # ---------- Tab 2: Score Prediction ----------
 with tab2:
-    st.header("🔮 Predict First Innings Score (Runs, 4s & 6s)")
+    st.header("🔮 Predict First Innings Score")
 
     col1, col2 = st.columns(2)
     with col1:
